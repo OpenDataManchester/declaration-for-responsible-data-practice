@@ -9,4 +9,4 @@ To this end Open Data Manchester CIC is looking to work with public, private and
 
 Although this vision is one we are developing for adoption in Greater Manchester, it is informed by and in collaboration with individuals, commmunities and organisations that are pushing for a better, fairer and more responsible data practice locally, nationally and internationally.
 
-## CC BY 4.0 (international) https://creativecommons.org/licenses/by/4.0/
+#### CC BY 4.0 (international) https://creativecommons.org/licenses/by/4.0/
