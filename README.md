@@ -9,7 +9,7 @@ To this end Open Data Manchester CIC is looking to work with public, private and
 
 Although this vision is one we are developing for adoption in Greater Manchester, it is informed by and in collaboration with individuals, commmunities and organisations that are pushing for a better, fairer and more responsible data practice locally, nationally and internationally.
 
-The Declaration is a Statement of Intent, a governance and review framework and resources for compliance. Even thought it has been created for Greater Manchester apart from the first page it is there to be amendeded, adapted and adopted by others who find it of use.
+The Declaration is a Statement of Intent, a governance and review framework and resources for compliance. Even thought it has been created for Greater Manchester, apart from the first page it is there to be amendeded, adapted and adopted by others who find it of use.
 
 We welcome comments as to how the Declaration could be improved so please contact Julian or Sam on declaration@opendatamanchester.org.uk
 
