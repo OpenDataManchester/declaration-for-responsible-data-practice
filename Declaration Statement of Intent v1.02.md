@@ -28,6 +28,7 @@ Greater Manchester was a crucible for new ideas and endeavour at the turn of the
 #### Collecting and using data
 
 5. We recognise that as organisations that collect and process personal data we are custodians of that data and have a legal, moral and ethical duty of care in its handling, so that;
+
 ..1. when personal data is collected, the lawful basis for the collection and processing of that data is accessible and open to review. We recognise that in some circumstances there are other lawful bases that are more appropriate than consent. If consent is the basis for collection and processing, the person giving consent is informed as to the purpose of that consent and does so freely, and that consent can be withdrawn at anytime with the corresponding data repatriated to the individual and deleted from those systems;
 
 ..2. when services and systems are developed and used by Greater Manchester organisations they have the principle of collecting only the minimum data needed (data minimisation) to perform a predefined task;
