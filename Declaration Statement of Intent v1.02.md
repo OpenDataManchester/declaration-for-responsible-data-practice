@@ -13,9 +13,9 @@ It’s vital that we collectively acknowledge our current data environment and w
 
 Greater Manchester was a crucible for new ideas and endeavour at the turn of the 19th century and now at the beginning of the 21st the opportunity has arisen to lead the way again in progressive, ethical and trustworthy data practice benefiting all in a fair, equitable and more sustainable future.
 
-## We the people and organisations of Greater Manchester agree to work together towards a world in 2025 in which:
+### We the people and organisations of Greater Manchester agree to work together towards a world in 2025 in which:
 
-### Common principles
+#### Common principles
 
 1. We understand that data and digital systems are tools and not a replacement for humanity and consider what these tools can and can’t do, and how they can enhance the everyday lives of those that live here.
 
@@ -25,22 +25,22 @@ Greater Manchester was a crucible for new ideas and endeavour at the turn of the
 
 4. The region as a whole embraces the opportunities that data and digital brings whilst actively trying to prevent the risks and harms that may emerge, by building an ethical digital and data ecosystem that supports the aspirations of the people of Greater Manchester and prioritises that value is given back to the region.
 
-### Collecting and using data
+#### Collecting and using data
 
 5. We recognise that as organisations that collect and process personal data we are custodians of that data and have a legal, moral and ethical duty of care in its handling, so that;
-..i) when personal data is collected, the lawful basis for the collection and processing of that data is accessible and open to review. We recognise that in some circumstances there are other lawful bases that are more appropriate than consent. If consent is the basis for collection and processing, the person giving consent is informed as to the purpose of that consent and does so freely, and that consent can be withdrawn at anytime with the corresponding data repatriated to the individual and deleted from those systems;
+..1. when personal data is collected, the lawful basis for the collection and processing of that data is accessible and open to review. We recognise that in some circumstances there are other lawful bases that are more appropriate than consent. If consent is the basis for collection and processing, the person giving consent is informed as to the purpose of that consent and does so freely, and that consent can be withdrawn at anytime with the corresponding data repatriated to the individual and deleted from those systems;
 
-..ii) when services and systems are developed and used by Greater Manchester organisations they have the principle of collecting only the minimum data needed (data minimisation) to perform a predefined task;
+..2. when services and systems are developed and used by Greater Manchester organisations they have the principle of collecting only the minimum data needed (data minimisation) to perform a predefined task;
 
-..iii) systems that collect and process data will have strong privacy protection, adopting a privacy by design approach with security being foundational to system design. This also extends to the ongoing operation, maintenance and decommissioning of the system; and
+..3. systems that collect and process data will have strong privacy protection, adopting a privacy by design approach with security being foundational to system design. This also extends to the ongoing operation, maintenance and decommissioning of the system; and
 
-..iv) personal data derived from third party sources should be given the same consideration as data collected and processed by signatory organisations themselves with proper assessment of such data undertaken prior to its use.
+..4. personal data derived from third party sources should be given the same consideration as data collected and processed by signatory organisations themselves with proper assessment of such data undertaken prior to its use.
 
-### Governance
+#### Governance
 
 6. Good governance is essential for building and maintaining trust. Therefore, appropriate systems of governance should be developed that have meaningful representation from people and communities involved in and affected by those programmes. Where necessary, support should be offered to those that may need help to represent their views.
 
-### Respect for all
+#### Respect for all
 
 7. In designing digital and data services and systems for Greater Manchester, we take into account the diversity of people who live and work here, and engage them at appropriate points in the design process. We recognise that by doing so, we make better services, products and decisions.
 
@@ -50,7 +50,7 @@ Greater Manchester was a crucible for new ideas and endeavour at the turn of the
 
 10. When we design and procure new data and digital systems, we are aware of the human impact associated with the extraction of the raw materials these systems are built from and the treatment of those that build them.
 
-### System design
+#### System design
 
 11. Innovation and experimentation are central to improved ways of working and the development of new services and products. Greater Manchester as a vibrant, creative and innovative region should harness this energy, as well as understand that the design of these endeavours should be driven by user need.
 
@@ -58,13 +58,13 @@ Greater Manchester was a crucible for new ideas and endeavour at the turn of the
 
 13. Where complex analytical processes are used, such as artificial intelligence and machine learning, we commit to assessing these processes so that the outcomes from them are fair and accurate, and the code and processes are made available for scrutiny where necessary. If these processes and outcomes derived from them cannot be explained, they shouldn’t be used.
 
-### Procurement
+#### Procurement
 
 14. The public sector within Greater Manchester should be a leader in ensuring ethical, effective, efficient and transparent uses of data. The sector must use the powers it has in procurement and decision-making to ensure that businesses operate appropriately and to the same standards when bidding for work, partnering together or implementing systems of data collection and processing.
 
 15. The risks of vendor lock-in, proprietary data standards, closed source computer code, and external data ownership are understood. Accordingly procurement regimes should favour solutions that provide Greater Manchester residents and democratic bodies with as much control over the data as possible, offer an open and interoperable data standards approach, reconfigurable open source code and an accommodation for transitioning from one vendor solution to another at the end of, or cessation of contract.
 
-### Sharing knowledge
+#### Sharing knowledge
 
 16. We need to demystify how data is collected and processed within Greater Manchester and create training and support for organisations, communities and individuals to learn more about the opportunities and challenges of data use, as well as an appreciation of legal, moral and ethical rights, and how they can be asserted.
 
@@ -76,11 +76,11 @@ Greater Manchester was a crucible for new ideas and endeavour at the turn of the
 
 20. In a connected world, knowledge and new ideas regarding data practice can develop anywhere. Greater Manchester’s aspirations as an outward looking global region should embrace this interconnectedness, drawing on knowledge and practice wherever it may take place and sharing back its successes and learnings in a spirit of openness and unanimity.
 
-### Open data
+#### Open data
 
 21. Organisations understand the value of publishing good quality open data and commit to publishing it where practical. This means using appropriate licenses, open data standards where available, and ensuring data is released in a timely, accurate and comprehensive fashion. Additionally data that underpins government decision-making or supports democratic processes should be made available as open data by default, enabling the public and civil society to engage with democratic processes in a fully informed fashion.
 
-### Environmental impact
+#### Environmental impact
 
 22. In a time of climate emergency, we understand the environmental impacts of digital and data technology – from initial construction and the raw materials used, through ongoing maintenance and energy consumption to end of life disposal. Impacts should be measured and mitigated against where possible and obsolete systems and infrastructure be redeployed, re-purposed or recycled where practical.
 
