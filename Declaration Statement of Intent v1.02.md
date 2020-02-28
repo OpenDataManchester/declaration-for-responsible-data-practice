@@ -29,13 +29,13 @@ Greater Manchester was a crucible for new ideas and endeavour at the turn of the
 
 5. We recognise that as organisations that collect and process personal data we are custodians of that data and have a legal, moral and ethical duty of care in its handling, so that;
 
-..1. when personal data is collected, the lawful basis for the collection and processing of that data is accessible and open to review. We recognise that in some circumstances there are other lawful bases that are more appropriate than consent. If consent is the basis for collection and processing, the person giving consent is informed as to the purpose of that consent and does so freely, and that consent can be withdrawn at anytime with the corresponding data repatriated to the individual and deleted from those systems;
+  1. when personal data is collected, the lawful basis for the collection and processing of that data is accessible and open to review. We recognise that in some circumstances there are other lawful bases that are more appropriate than consent. If consent is the basis for collection and processing, the person giving consent is informed as to the purpose of that consent and does so freely, and that consent can be withdrawn at anytime with the corresponding data repatriated to the individual and deleted from those systems;
 
-..2. when services and systems are developed and used by Greater Manchester organisations they have the principle of collecting only the minimum data needed (data minimisation) to perform a predefined task;
+  2. when services and systems are developed and used by Greater Manchester organisations they have the principle of collecting only the minimum data needed (data minimisation) to perform a predefined task;
 
-..3. systems that collect and process data will have strong privacy protection, adopting a privacy by design approach with security being foundational to system design. This also extends to the ongoing operation, maintenance and decommissioning of the system; and
+  3. systems that collect and process data will have strong privacy protection, adopting a privacy by design approach with security being foundational to system design. This also extends to the ongoing operation, maintenance and decommissioning of the system; and
 
-..4. personal data derived from third party sources should be given the same consideration as data collected and processed by signatory organisations themselves with proper assessment of such data undertaken prior to its use.
+  4. personal data derived from third party sources should be given the same consideration as data collected and processed by signatory organisations themselves with proper assessment of such data undertaken prior to its use.
 
 #### Governance
 
