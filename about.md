@@ -1,10 +1,8 @@
 # What is the Declaration?
 
-The Declaration is an ongoing co-design process that started in January 2019 and was undertaken with the generous support and expertise of practitioners from public, private, academic, civil-society and voluntary organisations.
+The Declaration was created through a collaborative and deliberative process. It offers a common vision for what best practice in data for Greater Manchester, and everywhere, should look like and was co-designed with the generous support and expertise of practitioners from public, private, academic, civil-society and voluntary organisations.
 
-It’s aim is to act not only as a statement of intent, but also as a means for developing and maintaining best practice, and although it was designed to be implemented in Greater Manchester, the input and support from the wider data community means that its principles are not geopgraphically constrained and are available to be adpated, adopted and implemented by others.
-
-Because it was created as part of a collaborative and deliberative process, it offers a common vision for what best practice in data for Greater Manchester, and everywhere, should look like. 
+It’s aim is to act not only as a statement of intent, but also as a means for developing and maintaining best practice in data, and although it was designed to be implemented in Greater Manchester the input and support from the wider data community means that its principles are not geographically constrained and are available to be adpated, adopted and implemented by others.
 
 Its aim is to act not only as a statement of intent, like the ‘first do no harm’ principle found in medical ethics, but also as a means for developing and maintaining best practice. 
 
